@@ -1,5 +1,5 @@
-<div><img src="https://github.com/KashifKazmi12/KashifKazmi12/blob/main/github-header-image%20(1).png" align="right" width="400" alt="Coding"/></div>
-<br>
+![Header](./github-header-image%20(1).png)
+<br><br>
 <h1 align="center">Hi 👋, I'm Syed Kashif Ali Kazmi</h1>
 <h3 align="center">A passionate Full Stack React/Next Js and Django developer from Pakistan</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400" alt="Coding"/>
