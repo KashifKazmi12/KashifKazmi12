@@ -1,4 +1,4 @@
-![Header](./github-header-image%20(1).png)
+![Header](./github-header-image%20(2).png)
 <br><br>
 <h1 align="center">Hi 👋, I'm Syed Kashif Ali Kazmi</h1>
 <h3 align="center">A passionate Full Stack React/Next Js and Django developer from Pakistan</h3>
